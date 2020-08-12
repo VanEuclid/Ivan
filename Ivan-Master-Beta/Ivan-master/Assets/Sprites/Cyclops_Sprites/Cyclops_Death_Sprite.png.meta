@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 8a686f796e6889d4db32ce7a7c1b626c
+timeCreated: 1481928394
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cyclops_Death_Sprite_0
+    21300002: Cyclops_Death_Sprite_1
+    21300004: Cyclops_Death_Sprite_2
+    21300006: Cyclops_Death_Sprite_3
+    21300008: Cyclops_Death_Sprite_4
+    21300010: Cyclops_Death_Sprite_5
+    21300012: Cyclops_Death_Sprite_6
+    21300014: Cyclops_Death_Sprite_7
+    21300016: Cyclops_Death_Sprite_8
+    21300018: Cyclops_Death_Sprite_9
+    21300020: Cyclops_Death_Sprite_10
+    21300022: Cyclops_Death_Sprite_11
+    21300024: Cyclops_Death_Sprite_12
+    21300026: Cyclops_Death_Sprite_13
+    21300028: Cyclops_Death_Sprite_14
+    21300030: Cyclops_Death_Sprite_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cyclops_Death_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 3745
+        width: 609
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cyclops_Death_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 3752
+        width: 584
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cyclops_Death_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 3745
+        width: 572
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cyclops_Death_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 3518
+        y: 3737
+        width: 560
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cyclops_Death_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2648
+        width: 574
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cyclops_Death_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 2624
+        width: 580
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cyclops_Death_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 2547
+        width: 573
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cyclops_Death_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 3526
+        y: 2547
+        width: 573
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cyclops_Death_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1401
+        width: 567
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cyclops_Death_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1401
+        width: 567
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cyclops_Death_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 1332
+        width: 558
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cyclops_Death_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 3534
+        y: 1203
+        width: 523
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cyclops_Death_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 29
+        width: 597
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cyclops_Death_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 29
+        width: 597
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cyclops_Death_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 29
+        width: 597
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cyclops_Death_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 3479
+        y: 29
+        width: 597
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
